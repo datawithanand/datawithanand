@@ -59,8 +59,8 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/></td>
-    <td></td>
-    <td></td>
+    <td><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/YAML-0000FF?style=for-the-badge&logo=yaml&logoColor=white"/></td>
   </tr>
 
   <!-- Data Tools -->
@@ -71,7 +71,6 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=airflow&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Data_Lake-0078D4?style=for-the-badge&logo=azure&logoColor=white"/></td>
-    <td></td>
   </tr>
 
   <!-- Databases -->
@@ -82,8 +81,6 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/Snowflake-28ACEA?style=for-the-badge&logo=snowflake&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/DB2-006699?style=for-the-badge&logo=ibm&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></td>
-    <td></td>
-    <td></td>
   </tr>
 
   <!-- Cloud / Azure -->
@@ -104,13 +101,9 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></td>  
     <td><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 </p>
-
-
 
 ---
 
