@@ -148,5 +148,8 @@ Here are some ideas to get you started:
 
 ---
 
-![Data Quote](https://img.shields.io/badge/🔥-Data_is_the_new_oil-blue?style=for-the-badge&logo=analytics&logoColor=white)
-
+<p align="center">
+  ⭐⭐⭐<br>
+  <i>🔥 "Data is the new oil, and I’m here to refine it." 🔥</i><br>
+  ⭐⭐⭐
+</p>
