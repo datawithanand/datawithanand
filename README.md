@@ -133,8 +133,8 @@ Here are some ideas to get you started:
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithanandsuresh/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anandroshan)
+[![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datawithanandsuresh/)
+[![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anandroshan)
 
 
 ---
