@@ -107,6 +107,62 @@
 </p>
 
 ---
+<p align="center">
+<table>
+  <!-- Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td>Python</td>
+    <td>SQL</td>
+    <td>Bash</td>
+    <td>JSON</td>
+    <td>YAML</td>
+  </tr>
+
+  <!-- Data Tools -->
+  <tr>
+    <td><b>Data Tools</b></td>
+    <td>Pandas</td>
+    <td>NumPy</td>
+    <td>PySpark</td>
+    <td>Airflow</td>
+    <td>Data Lake</td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td><b>Databases</b></td>
+    <td>PostgreSQL</td>
+    <td>MySQL</td>
+    <td>Snowflake</td>
+    <td>DB2</td>
+    <td>Microsoft SQL Server</td>
+  </tr>
+
+  <!-- Cloud / Azure -->
+  <tr>
+    <td><b>Cloud / Azure</b></td>
+    <td>Azure ADLS</td>
+    <td>Azure Data Factory</td>
+    <td>Azure Databricks</td>
+    <td>Azure Synapse</td>
+    <td>Azure DevOps</td>
+  </tr>
+
+  <!-- DevOps & Tools -->
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>Git</td>
+    <td>Linux</td>
+    <td>Docker</td>
+    <td>Jenkins</td>
+    <td>JIRA</td>
+  </tr>
+</table>
+</p>
+
+
+---
 
 ## 📈 GitHub Stats
 <table>
