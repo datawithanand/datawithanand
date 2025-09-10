@@ -1,16 +1,5 @@
 <!--
 **datawithanand/datawithanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <p align="center">
@@ -43,6 +32,17 @@ Here are some ideas to get you started:
 - Exploring **Delta Lake**, **Delta Live Tables**, **Data Warehousing**, and **Data Lakes** in **Azure**.  
 - Experimenting with **PySpark** for scalable and distributed data processing.  
 - Leveling up with advanced challenges in **SQL**, **Python**, and **PySpark**.  
+
+---
+
+## 🛠️ Top Data Engineering Skills
+![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
 
@@ -90,9 +90,9 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/></td>
   </tr>
 
-  <!-- Others -->
+  <!-- DevOps & Tools -->
   <tr>
-    <td><b>Devops</b></td>
+    <td><b>DevOps & Tools</b></td>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
@@ -104,18 +104,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Top Data Engineering Skills:
-![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure&logoColor=white)
-![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
-
----
-
-## 📈 GitHub Stats:
+## 📈 GitHub Stats
 <table>
   <tr>
     <td>
@@ -130,11 +119,9 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
 ---
 
-## 💬 Connect with Me:
-
+## 💬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/datawithanandsuresh/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="250"/>
@@ -145,11 +132,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  ⭐⭐⭐<br>
-  <i>🔥 "Data is the new oil, and I’m here to refine it." 🔥</i><br>
-  ⭐⭐⭐
+  🔥🔥🔥<br>
+  <i>"Data is the new oil, and I’m here to refine it."</i><br>
+  🔥🔥🔥
 </p>
