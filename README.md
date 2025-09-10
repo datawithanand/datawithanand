@@ -12,11 +12,14 @@
 
 ---
 
-<p>
-  <img src="https://media3.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="250"/>
-  <img src="https://media4.giphy.com/media/NuYNJuGv4YjDjGJe1A/giphy.gif" width="250"/>
-  <img src="https://media1.giphy.com/media/EIxBz46eCnTwdpIJNl/giphy.gif" width="250"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://media3.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/ef3c6893-369a-46d3-9827-44391e34559e" width="250"/></td>
+    <td><img src="https://media1.giphy.com/media/EIxBz46eCnTwdpIJNl/giphy.gif" width="250"/></td>
+  </tr>
+</table>
+
 
 ---
 
