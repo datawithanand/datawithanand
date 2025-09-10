@@ -15,11 +15,10 @@
 <table>
   <tr>
     <td><img src="https://media2.giphy.com/media/CsTdIfxCWSSryUXNK8/giphy.gif" width="250"/></td>
-    <td><img src="https://media0.giphy.com/media/oZwVwi2UMn9Ydlyavf/giphy.gif" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/74549987-d247-4ab2-af4f-d93792132abb" width="250"/></td>
     <td><img src="https://media4.giphy.com/media/H6cj9MTbij5WwVW7Pf/giphy.gif" width="250"/></td>
   </tr>
 </table>
-
 
 ---
 
