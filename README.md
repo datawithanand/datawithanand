@@ -13,8 +13,11 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc5d2hoMTlodTh3ZjU0eWtvazBjbHZzanhia2ZyM3BjZzBxdjlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" alt="Data Loading GIF" width="400"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29yZzgxOWpxcHYwOTF6OWVoMzM1YjZ6M3lyZ3R6YmZobTFkbnppaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92cu6TfCZDVRBkmmDu/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZhd2hoYjV6czVzM3UwNm9rc2xoY2IwbnE2Zzk3dXlyYzY3b2VxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" width="250"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajlrOW03NDJuOGt0NzlzNWQ4YXdtejVvbGNxbHRocWJjNXdoZGN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EIxBz46eCnTwdpIJNl/giphy.gif" width="250"/>
 </p>
+
 
 ---
 
