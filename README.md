@@ -45,7 +45,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Synapse](https://img.shields.io/badge/%20Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 ---
