@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!--
 ## 🚀 About Me:
-- 💻 Currently diving deep into **Data Engineering**, **SQL**, **Python**, and **Big Data**.  
+- 💻 Currently deep into **Data Engineering**, **SQL**, **Python**, and **Big Data**.  
 - 📊 Passionate about turning messy data into meaningful insights.  
-- 🌱 Learning new technologies every day: **Spark**, **Airflow**, **AWS**, and **ETL best practices**.  
+- 🌱 Learning new technologies every day: **Spark**, **Databricks**, **Azure**, and **ETL best practices**.  
 - 🤔 Problem solver by nature — love tackling challenging datasets and optimizing pipelines.  
 - 📝 Sharing knowledge through code and experiments on GitHub.  
 
@@ -43,6 +43,27 @@ Here are some ideas to get you started:
 - Exploring **Delta Lake**, **Delta Live Tables**, **Data Warehousing** and **Data Lakes** using **Azure**.  
 - Experimenting with **PySpark** for scalable data processing.  
 - Preparing for **SQL, Python, and PySpark advanced challenges** to level up my skills.  
+-->
+
+## 🚀 About Me
+<p>
+💻 Currently deep into <b style="color:#3776AB;">Data Engineering</b>, <b style="color:#FF5733;">SQL</b>, <b style="color:#306998;">Python</b>, and <b style="color:#E25A1C;">Big Data</b>.<br>
+📊 Passionate about turning messy data into <b style="color:#28ACEA;">meaningful insights</b>.<br>
+🌱 Learning new technologies every day: <b style="color:#FF2C2C;">Spark</b>, <b style="color:#FF2C2C;">Databricks</b>, <b style="color:#0078D4;">Azure</b>, and <b>ETL best practices</b>.<br>
+🤔 Problem solver by nature — love tackling challenging datasets and optimizing pipelines.<br>
+📝 Sharing knowledge through code and experiments on GitHub.
+</p>
+
+---
+
+## 💻 What I’m Working On
+<p>
+🚧 Building <b style="color:#28ACEA;">ETL pipelines</b> for real-world datasets. 📊<br>
+🔍 Exploring <b style="color:#0078D4;">Delta Lake</b>, <b>Delta Live Tables</b>, <b>Data Warehousing</b> and <b>Data Lakes</b> using <b style="color:#0078D4;">Azure</b>.<br>
+⚡ Experimenting with <b style="color:#E25A1C;">PySpark</b> for scalable data processing.<br>
+🎯 Preparing for <b style="color:#FF5733;">SQL</b>, <b style="color:#306998;">Python</b>, and <b style="color:#E25A1C;">PySpark</b> advanced challenges to level up my skills.
+</p>
+
 
 ---
 
