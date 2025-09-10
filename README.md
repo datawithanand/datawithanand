@@ -14,9 +14,9 @@
 
 <table>
   <tr>
-    <td><img src="https://media3.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/ef3c6893-369a-46d3-9827-44391e34559e" width="250"/></td>
-    <td><img src="https://media1.giphy.com/media/EIxBz46eCnTwdpIJNl/giphy.gif" width="250"/></td>
+    <td><img src="https://media2.giphy.com/media/CsTdIfxCWSSryUXNK8/giphy.gif" width="250"/></td>
+    <td><img src="https://media0.giphy.com/media/oZwVwi2UMn9Ydlyavf/giphy.gif" width="250"/></td>
+    <td><img src="https://media4.giphy.com/media/H6cj9MTbij5WwVW7Pf/giphy.gif" width="250"/></td>
   </tr>
 </table>
 
