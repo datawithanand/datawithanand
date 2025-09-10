@@ -136,17 +136,15 @@ Here are some ideas to get you started:
 ## 💬 Connect with Me:
 
 <p align="center">
-<table>
-<tr>
-  <td><a href="https://www.linkedin.com/in/datawithanandsuresh/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a></td>
-  <td><a href="https://twitter.com/anandroshan">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a></td>
-</tr>
-</table>
+  <a href="https://www.linkedin.com/in/datawithanandsuresh/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="250"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/anandroshan">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="250"/>
+  </a>
 </p>
+
 
 ---
 
