@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Key Data Engineering Skills:
+## 🛠️ Top Data Engineering Skills:
 ![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -148,5 +148,5 @@ Here are some ideas to get you started:
 
 ---
 
-> "Data is the new oil, and I’m here to refine it." 🔥
+![Data Quote](https://img.shields.io/badge/🔥-Data_is_the_new_oil-blue?style=for-the-badge&logo=analytics&logoColor=white)
 
