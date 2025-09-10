@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">
-  Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's Connect and have a Chat! 💬
+  Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's Connect and Chat! 💬
 </h1>
-<!--
-# Hi 👋, I’m Anand!  
-### Data Engineer | Lover of clean code & elegant pipelines | Always curious about data 📈 |
--->
+
 ---
 
 <p align="center">
