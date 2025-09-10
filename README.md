@@ -12,11 +12,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="220"/>
-  <img src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="220"/>
-  <img src="https://media1.giphy.com/media/EIxBz46eCnTwdpIJNl/giphy.gif" width="220"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://media3.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="100%"/></td>
+    <td align="center"><img src="https://media2.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="100%"/></td>
+    <td align="center"><img src="https://media1.giphy.com/media/EIxBz46eCnTwdpIJNl/giphy.gif" width="100%"/></td>
+  </tr>
+</table>
 
 
 ---
