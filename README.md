@@ -75,7 +75,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/Azure_ADLS-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure_DataFactory-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure_Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Azure_Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
     </td>
