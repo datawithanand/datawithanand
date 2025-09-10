@@ -46,23 +46,31 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
+
 <p>
-💻 Currently deep into <b style="color:#3776AB;">Data Engineering</b>, <b style="color:#FF5733;">SQL</b>, <b style="color:#306998;">Python</b>, and <b style="color:#E25A1C;">Big Data</b>.<br>
-📊 Passionate about turning messy data into <b style="color:#28ACEA;">meaningful insights</b>.<br>
-🌱 Learning new technologies every day: <b style="color:#FF2C2C;">Spark</b>, <b style="color:#FF2C2C;">Databricks</b>, <b style="color:#0078D4;">Azure</b>, and <b>ETL best practices</b>.<br>
-🤔 Problem solver by nature — love tackling challenging datasets and optimizing pipelines.<br>
-📝 Sharing knowledge through code and experiments on GitHub.
+💻 <strong>Currently:</strong> Data Engineering · SQL · Python · Big Data<br>
+📊 <strong>Focus:</strong> Turning messy data into meaningful insights<br>
+🌱 <strong>Learning:</strong>
+<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF2C2C?style=flat-square&logo=databricks&logoColor=white" />
+<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white" />
+<img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-0099FF?style=flat-square&logo=apache&logoColor=white" />
+<br>
+🤔 <strong>About:</strong> Problem solver — I optimize pipelines & love tidy data<br>
+📝 <strong>Share:</strong> Code & experiments on GitHub
 </p>
 
 ---
 
 ## 💻 What I’m Working On
+
 <p>
-🚧 Building <b style="color:#28ACEA;">ETL pipelines</b> for real-world datasets. 📊<br>
-🔍 Exploring <b style="color:#0078D4;">Delta Lake</b>, <b>Delta Live Tables</b>, <b>Data Warehousing</b> and <b>Data Lakes</b> using <b style="color:#0078D4;">Azure</b>.<br>
-⚡ Experimenting with <b style="color:#E25A1C;">PySpark</b> for scalable data processing.<br>
-🎯 Preparing for <b style="color:#FF5733;">SQL</b>, <b style="color:#306998;">Python</b>, and <b style="color:#E25A1C;">PySpark</b> advanced challenges to level up my skills.
+• Building <strong>ETL pipelines</strong> for real datasets. 📊<br>
+• Exploring <strong>Delta Lake</strong>, <strong>Delta Live Tables</strong>, Data Warehousing & Data Lakes on Azure. ☁️<br>
+• Experimenting with <strong>PySpark</strong> for scalable processing. ⚡<br>
+• Preparing for advanced <strong>SQL</strong>, <strong>Python</strong> & <strong>PySpark</strong> challenges. 🎯
 </p>
+
 
 
 ---
