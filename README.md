@@ -6,9 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
   Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's talk data !!! 💬
-</h3>
+</h2>
 
 ---
 
