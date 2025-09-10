@@ -45,6 +45,17 @@ Here are some ideas to get you started:
 
 ---
 
+## 🛠️ Tools I’ve Learned
+![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF2C2C?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+---
+
 ## 📈 GitHub Stats
 ![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithanand&show_icons=true&theme=radical)  
 
