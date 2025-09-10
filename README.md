@@ -66,18 +66,17 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=datawithanand&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=datawithanand&show_icons=true&theme=radical" alt="GitHub Stats" width="300"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datawithanand&theme=radical" alt="GitHub Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=datawithanand&theme=radical" alt="GitHub Streak" width="300"/>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithanand&layout=compact&theme=radical" alt="Top Languages"/>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datawithanand&layout=compact&theme=radical" alt="Top Languages" width="300"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
