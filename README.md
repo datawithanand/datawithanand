@@ -28,50 +28,21 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<!--
-## 🚀 About Me:
-- 💻 Currently deep into **Data Engineering**, **SQL**, **Python**, and **Big Data**.  
-- 📊 Passionate about turning messy data into meaningful insights.  
-- 🌱 Learning new technologies every day: **Spark**, **Databricks**, **Azure**, and **ETL best practices**.  
-- 🤔 Problem solver by nature — love tackling challenging datasets and optimizing pipelines.  
-- 📝 Sharing knowledge through code and experiments on GitHub.  
-
----
-
-## 💻 What I’m Working On:
-- Building **ETL pipelines** for real-world datasets. 📊
-- Exploring **Delta Lake**, **Delta Live Tables**, **Data Warehousing** and **Data Lakes** using **Azure**.  
-- Experimenting with **PySpark** for scalable data processing.  
-- Preparing for **SQL, Python, and PySpark advanced challenges** to level up my skills.  
--->
 
 ## 🚀 About Me
-
-<p>
-💻 <strong>Currently:</strong> Data Engineering · SQL · Python · Big Data<br>
-📊 <strong>Focus:</strong> Turning messy data into meaningful insights<br>
-🌱 <strong>Learning:</strong>
-<img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" />
-<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF2C2C?style=flat-square&logo=databricks&logoColor=white" />
-<img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=azure&logoColor=white" />
-<img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-0099FF?style=flat-square&logo=apache&logoColor=white" />
-<br>
-🤔 <strong>About:</strong> Problem solver — I optimize pipelines & love tidy data<br>
-📝 <strong>Share:</strong> Code & experiments on GitHub
-</p>
+- 💻 Currently diving deep into **Data Engineering**, working daily with **SQL**, **Python**, and **Big Data**.  
+- 📊 Passionate about transforming messy datasets into meaningful insights.  
+- 🌱 Always learning: exploring **Spark**, **Databricks**, **Azure**, and modern **ETL practices**.  
+- 🤔 Problem-solver at heart — love optimizing data pipelines and tackling complex challenges.  
+- 📝 Sharing my journey and projects right here on GitHub.  
 
 ---
 
 ## 💻 What I’m Working On
-
-<p>
-• Building <strong>ETL pipelines</strong> for real datasets. 📊<br>
-• Exploring <strong>Delta Lake</strong>, <strong>Delta Live Tables</strong>, Data Warehousing & Data Lakes on Azure. ☁️<br>
-• Experimenting with <strong>PySpark</strong> for scalable processing. ⚡<br>
-• Preparing for advanced <strong>SQL</strong>, <strong>Python</strong> & <strong>PySpark</strong> challenges. 🎯
-</p>
-
-
+- Building and refining **ETL pipelines** for real-world datasets.  
+- Exploring **Delta Lake**, **Delta Live Tables**, **Data Warehousing**, and **Data Lakes** in **Azure**.  
+- Experimenting with **PySpark** for scalable and distributed data processing.  
+- Leveling up with advanced challenges in **SQL**, **Python**, and **PySpark**.  
 
 ---
 
