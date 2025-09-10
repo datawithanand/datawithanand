@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's Connect and Chat! 💬
+  Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's talk data !!! 💬
 </h1>
 
 ---
