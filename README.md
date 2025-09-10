@@ -13,10 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Hi 👋, I’m Anand. I am a Data Engineer. 👷 Let's Connect and have a Chat! 💬
+</h1>
+<!--
 # Hi 👋, I’m Anand!  
-
 ### Data Engineer | Lover of clean code & elegant pipelines | Always curious about data 📈 |
-
+-->
 ---
 
 <p align="center">
@@ -63,6 +70,7 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=airflow&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Data_Lake-0078D4?style=for-the-badge&logo=azure&logoColor=white"/></td>
     <td></td>
   </tr>
 
@@ -72,6 +80,8 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Snowflake-28ACEA?style=for-the-badge&logo=snowflake&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/DB2-006699?style=for-the-badge&logo=ibm&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/></td>
     <td></td>
     <td></td>
   </tr>
@@ -88,10 +98,12 @@ Here are some ideas to get you started:
 
   <!-- Others -->
   <tr>
-    <td><b>Other</b></td>
+    <td><b>Devops</b></td>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/></td>  
+    <td><img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></td>
     <td></td>
     <td></td>
   </tr>
@@ -139,7 +151,4 @@ Here are some ideas to get you started:
 ---
 
 > "Data is the new oil, and I’m here to refine it." 🔥
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
