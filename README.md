@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I’m Anand!  
 
-> **Data Engineer** | Lover of clean code & elegant pipelines | Always curious about data  
+> **Data Engineer** | Lover of clean code & elegant pipelines | Always curious about data
 
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDc5d2hoMTlodTh3ZjU0eWtvazBjbHZzanhia2ZyM3BjZzBxdjlidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" alt="Data Loading GIF" width="400"/>
+</p>
+
+---
+
+## 🚀 About Me:
 - 💻 Currently diving deep into **Data Engineering**, **SQL**, **Python**, and **Big Data**.  
 - 📊 Passionate about turning messy data into meaningful insights.  
 - 🌱 Learning new technologies every day: **Spark**, **Airflow**, **AWS**, and **ETL best practices**.  
@@ -28,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🔭 What I’m Working On
+## 🔭 What I’m Working On:
 - Building **ETL pipelines** for real-world datasets. 📊
 - Exploring **Delta Lake**, **Delta Live Tables**, **Data Warehousing** and **Data Lakes** using **Azure**.  
 - Experimenting with **PySpark** for scalable data processing.  
@@ -36,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🌟 Skills & Tools
+## 🌟 Top Skills & Tools:
 **Languages:** `Python` `SQL` `Bash`  
 **Data Tools:** `Pandas` `NumPy` `PySpark` `Airflow`  
 **Databases:** `PostgreSQL` `MySQL` `Snowflake`  
@@ -45,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Tools I’ve Learned
+## 🛠️ Key Data Engineering Skills:
 ![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -56,13 +62,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats:
 ![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=datawithanand&show_icons=true&theme=radical)  
 
 ---
 
-## 💬 Connect with Me
+## 💬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/datawithanandsuresh/)  
+
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/anandroshan)  
 
 ---
